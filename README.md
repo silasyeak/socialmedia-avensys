@@ -3,4 +3,4 @@ Echotopia is a social media web application built using the Spring Boot framewor
 Roles & Responsibilities:
 - Created a dynamic Social Media Web Application using React JS, Spring Boot, Firebase and MySQL.
 - Responsible for designing and implementing the backend of the project and connecting with the frontend
-- Collaborated with a team of 2 to integrate various modules and ensure optimal application performance.
+- Collaborated in a team of 2 to integrate various modules and ensure optimal application performance.
